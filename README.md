@@ -1,4 +1,4 @@
-###Student interests:Algorithm/Embedded Engineering/Web Technologies/Artificial Intelligence###
+**A student. interests:Algorithm/Embedded Engineering/Web Technologies/Artificial Intelligence**
 
 ![统计](https://github-readme-stats.vercel.app/api?username=2scotoyoumu&show_icons=true)
 ![代码](https://github-readme-stats.vercel.app/api/top-langs?username=2scotoyoumu&show_icons=true)
