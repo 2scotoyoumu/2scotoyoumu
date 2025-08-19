@@ -1,5 +1,8 @@
 **人生自古谁无死？不幸的2scotoyoumu已经永远地离我们而去，我们为其缅怀一普朗克时间**
 
+![统计](https://github-readme-stats.vercel.app/api?username=2scotoyoumu&show_icons=true)
+![代码](https://github-readme-stats.vercel.app/api/top-langs?username=2scotoyoumu&show_icons=true)
+
 <pre>
                                                                                                                                                                      
                                                                                                                                                                      
